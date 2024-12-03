@@ -2,7 +2,6 @@
 
 This is my analysis and study on the research paper: Data Generation Using Large Language Models for Text Classification
 
-### Artifacts:
 
 **Research Paper:** https://arxiv.org/pdf/2407.12813 
 
