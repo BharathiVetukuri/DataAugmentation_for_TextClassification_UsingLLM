@@ -1,9 +1,14 @@
 # Data Generation Using Large Language Models for Text Classification
 
-Research Paper: https://arxiv.org/pdf/2407.12813
+This is my analysis and study 
 
-Medium Article: https://medium.com/@soumyabharathi.vetukuri/data-augmentation-for-text-classification-using-large-language-models-dcc083eb66ce 
+Research Paper: https://arxiv.org/pdf/2407.12813 
 
-Presentation: https://www.slideshare.net/secret/gltkLkNShqShCQ 
+Medium Article: https://medium.com/@soumyabharathi.vetukuri/data-augmentation-for-text-classification-using-large-language-models-dcc083eb66ce  
 
-Youtube Link: https://youtu.be/Uf_hKSXpDMI 
+Presentation: https://www.slideshare.net/secret/gltkLkNShqShCQ  
+
+Youtube Link: https://youtu.be/Uf_hKSXpDMI  
+
+
+[![Short Story PPT](https://img.youtube.com/vi/Uf_hKSXpDMI/0.jpg)](https://www.youtube.com/watch?v=Uf_hKSXpDMI) 
